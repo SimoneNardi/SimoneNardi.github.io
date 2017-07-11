@@ -1,0 +1,63 @@
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1885px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: 80px;
+	margin-bottom: 1195px;
+}
+
+#u3527-4
+{
+	z-index: 5;
+	width: 326px;
+	min-height: 50px;
+	text-align: center;
+	letter-spacing: 4px;
+	font-size: 29px;
+	line-height: 35px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	margin-left: 317px;
+	position: relative;
+}
+
+#pu2396
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u2396
+{
+	z-index: 2;
+	width: 25px;
+	min-height: 25px;
+	margin-right: -10000px;
+	left: 950px;
+}
+
+#u3521
+{
+	z-index: 3;
+	width: 960px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
