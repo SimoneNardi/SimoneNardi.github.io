@@ -13,7 +13,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://SimoneNardi.github.io/images/favicon.ico</loc>
+    <loc>http://SimoneNardi.github.io/images/mrfert_doorsim.jpg</loc>
+    <lastmod>2017-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://SimoneNardi.github.io/images/mrfert_time_expanded3.jpg</loc>
+    <lastmod>2017-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://SimoneNardi.github.io/images/mrfert_mixed3d.jpg</loc>
     <lastmod>2017-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

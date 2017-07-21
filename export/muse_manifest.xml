@@ -5,7 +5,7 @@
     <file name="index.css" crc="3993395546" ref="index"/>
     <file name="mocap.css" crc="3946951964" ref="mocap"/>
     <file name="indoornavigation.css" crc="3992585884" ref="indoornavigation"/>
-    <file name="mrfert.css" crc="37211591" ref="mrfert"/>
+    <file name="mrfert.css" crc="102927381" ref="mrfert"/>
     <file name="reaction-phase.css" crc="498518627" ref="reaction-phase"/>
     <file name="highvalueasset.css" crc="510563216" ref="highvalueasset"/>
     <file name="nostop-project.css" crc="3957515222" ref="nostop-project"/>
@@ -22,15 +22,17 @@
   <folder name="images">
     <file name="home-favicon.ico" crc="4186153291" ref="index"/>
     <file name="mrfert-favicon.ico" crc="4186153291" ref="mrfert"/>
-    <file name="favicon.ico" crc="4186153291" ref="nostop-project"/>
+    <file name="mrfert_doorsim.jpg" crc="207400255" ref="mrfert"/>
+    <file name="mrfert_time_expanded3.jpg" crc="4171445523" ref="mrfert"/>
+    <file name="mrfert_mixed3d.jpg" crc="259840507" ref="mrfert"/>
   </folder>
-  <file name="index.html" crc="526931142" mt="1500479494105" redirect="true"/>
-  <file name="nostop-project.html" crc="4142827425" mt="1500479494107" redirect="true"/>
-  <file name="mrfert.html" crc="43755847" mt="1500479494108" redirect="true"/>
-  <file name="reaction-phase.html" crc="4196235544" mt="1500479494110" redirect="true"/>
-  <file name="mocap.html" crc="103904877" mt="1500479494111" redirect="true"/>
-  <file name="indoornavigation.html" crc="363433282" mt="1500479494112" redirect="true"/>
-  <file name="3dreconstruction.html" crc="4166796697" mt="1500479494114" redirect="true"/>
-  <file name="objecthandling.html" crc="4036621450" mt="1500479494115" redirect="true"/>
-  <file name="highvalueasset.html" crc="144135200" mt="1500479494116" redirect="true"/>
+  <file name="index.html" crc="526931142" mt="1500479982663" redirect="true"/>
+  <file name="nostop-project.html" crc="4116204309" mt="1500479982665" redirect="true"/>
+  <file name="mrfert.html" crc="3791804579" mt="1500480850813" redirect="true"/>
+  <file name="reaction-phase.html" crc="4188779948" mt="1500479982669" redirect="true"/>
+  <file name="mocap.html" crc="343664644" mt="1500479982671" redirect="true"/>
+  <file name="indoornavigation.html" crc="433792871" mt="1500479982673" redirect="true"/>
+  <file name="3dreconstruction.html" crc="4096716732" mt="1500479982674" redirect="true"/>
+  <file name="objecthandling.html" crc="3835049427" mt="1500479982676" redirect="true"/>
+  <file name="highvalueasset.html" crc="3891412082" mt="1500479982678" redirect="true"/>
 </manifest>
