@@ -1,2 +1,0 @@
-# SimoneNardi.github.io
-WebSite
