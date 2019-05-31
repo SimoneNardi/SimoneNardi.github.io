@@ -20,7 +20,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3854975703"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=314605277"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3915451731" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=385360117" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3894547938"/>
@@ -270,9 +270,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
    <div class="clearfix grpelem" id="pu4448"><!-- group -->
-    <div class="browser_width mse_pre_init" id="u4448-bw">
-     <div class="museBGSize" id="u4448"><!-- simple frame --></div>
-    </div>
+    <div class="museBGSize mse_pre_init" id="u4448"><!-- simple frame --></div>
     <nav class="MenuBar clearfix mse_pre_init" id="menuu4451"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem" id="u4459"><!-- vertical box -->
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix colelem" id="u4462" href="index.html#home"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4463-4"><!-- content --><p>Home</p></div></a>
@@ -337,7 +335,7 @@ Muse.Utils.initWidget('#pamphletu319', ['#bp_infinity'], function(elem) { return
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u4886').registerBackgroundPositionScrollEffect([{"in":[-Infinity,2593.7],"speed":[0,0]},{"in":[2593.7,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#u4448-bw').registerPositionScrollEffect([{"in":[-Infinity,253],"speed":[null,-1]},{"in":[253,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#u4448').registerPositionScrollEffect([{"in":[-Infinity,253],"speed":[1,-1]},{"in":[253,Infinity],"speed":[0,0]}]);/* scroll effect */
 $('#menuu4451').registerPositionScrollEffect([{"in":[-Infinity,253],"speed":[0,-1]},{"in":[253,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
