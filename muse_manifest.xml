@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="simonenardi.github.io" resolutions="1x" timestamp="1559299207555">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="simonenardi.github.io" resolutions="1x" timestamp="1559299418806">
   <folder name="css">
     <file name="site_global.css" crc="3854975703"/>
     <file name="master_a-master.css" crc="314605277" ref="index"/>
-    <file name="index.css" crc="278943824" ref="index"/>
+    <file name="index.css" crc="17761728" ref="index"/>
     <file name="iefonts_index.css" crc="3894547938" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -47,7 +47,7 @@
     <file name="faidatebw.png" crc="3805099888" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_4179.jpg" crc="4277723845" ref="index">
+    <file name="img_4179.jpg" crc="513773681" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a-2.jpg" crc="3960650469" ref="index">
@@ -63,5 +63,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4167137145" seo="true" mt="1559299185112" redirect="true"/>
+  <file name="index.html" crc="486583041" seo="true" mt="1559299418092" redirect="true"/>
 </manifest>
