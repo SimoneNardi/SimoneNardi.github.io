@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="simonenardi.github.io" resolutions="1x" timestamp="1559302803518">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="simonenardi.github.io" resolutions="1x" timestamp="1559303454551">
   <folder name="css">
     <file name="site_global.css" crc="3854975703"/>
     <file name="master_a-master.css" crc="314605277" ref="index"/>
-    <file name="index.css" crc="4202264900" ref="index"/>
+    <file name="index.css" crc="342674180" ref="index"/>
     <file name="iefonts_index.css" crc="3894547938" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -59,9 +59,6 @@
     <file name="drone.jpg" crc="212189966" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="swarms.jpg" crc="258831746" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="youtube_light.png" crc="230417625" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -78,6 +75,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="braccio-robot.jpg" crc="486513539" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4170646369" seo="true" mt="1559302794727" redirect="true"/>
+  <file name="index.html" crc="529155252" seo="true" mt="1559303339713" redirect="true"/>
 </manifest>
