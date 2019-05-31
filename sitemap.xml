@@ -5,5 +5,17 @@
     <lastmod>2019-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://simonenardi.github.io/images/youtube_light.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://simonenardi.github.io/images/tritter_light.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://simonenardi.github.io/images/link_light.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://simonenardi.github.io/images/github_light.png</image:loc>
+    </image:image>
   </url>
 </urlset>
