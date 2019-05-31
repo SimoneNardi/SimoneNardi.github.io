@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.monena.altervista.org" resolutions="1x" timestamp="1559289764276">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.monena.altervista.org" resolutions="1x" timestamp="1559290210776">
   <folder name="css">
     <file name="site_global.css" crc="3854975703"/>
     <file name="master_a-master.css" crc="314605277" ref="index"/>
-    <file name="index.css" crc="3935432763" ref="index"/>
-    <file name="iefonts_index.css" crc="34015194" ref="index"/>
+    <file name="index.css" crc="4071061583" ref="index"/>
+    <file name="iefonts_index.css" crc="187811217" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -57,5 +57,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4175181166" seo="true" mt="1559289635262" redirect="true"/>
+  <file name="index.html" crc="3294238" seo="true" mt="1559290135204" redirect="true"/>
 </manifest>
