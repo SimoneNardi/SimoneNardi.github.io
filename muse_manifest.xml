@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.monena.altervista.org" resolutions="1x" timestamp="1528642503274">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.monena.altervista.org" resolutions="1x" timestamp="1559289764276">
   <folder name="css">
     <file name="site_global.css" crc="3854975703"/>
     <file name="master_a-master.css" crc="314605277" ref="index"/>
-    <file name="index.css" crc="487738440" ref="index"/>
-    <file name="iefonts_index.css" crc="492985526" ref="index"/>
+    <file name="index.css" crc="3935432763" ref="index"/>
+    <file name="iefonts_index.css" crc="34015194" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -50,9 +50,12 @@
     <file name="img_4179.jpg" crc="4277723845" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gatto.jpg" crc="3947876749" ref="index">
+    <file name="a-2.jpg" crc="3960650469" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gatto.png" crc="452834188" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4037891936" seo="true" mt="1528642502502" redirect="true"/>
+  <file name="index.html" crc="4175181166" seo="true" mt="1559289635262" redirect="true"/>
 </manifest>
