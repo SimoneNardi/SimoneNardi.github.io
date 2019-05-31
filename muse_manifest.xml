@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="simonenardi.github.io" resolutions="1x" timestamp="1559304033844">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="simonenardi.github.io" resolutions="1x" timestamp="1559304280317">
   <folder name="css">
     <file name="site_global.css" crc="3854975703"/>
     <file name="master_a-master.css" crc="314605277" ref="index"/>
-    <file name="index.css" crc="3905735185" ref="index"/>
+    <file name="index.css" crc="223323015" ref="index"/>
     <file name="iefonts_index.css" crc="3894547938" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -79,5 +79,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="488180865" seo="true" mt="1559304024342" redirect="true"/>
+  <file name="index.html" crc="4084041341" seo="true" mt="1559304263002" redirect="true"/>
 </manifest>
